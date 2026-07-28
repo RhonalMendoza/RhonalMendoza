@@ -11,7 +11,7 @@
 
 ## 🧠 Sobre mí
 
-Soy **Data Scientist** con base en Ingeniería Mecánica, me especializo en análisis, transformación y visualización de datos, así como en el desarrollo de modelos de Machine Learning aplicados a problemas industriales y técnicos.
+Soy **Data Scientist** , me especializo en análisis, transformación y visualización de datos, así como en el desarrollo de modelos de Machine Learning aplicados a problemas industriales y técnicos. Tambien cuento bases en ingenieria mecanica.
 
 - 🔭 Actualmente trabajando en proyectos de **predicción de vida útil y mantenimiento predictivo**
 - 🌱 Formándome en **Data Science & Machine Learning** en 4Geeks Academy España
