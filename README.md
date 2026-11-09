@@ -66,7 +66,6 @@ Desarrollo de soluciones analíticas para estudiar el comportamiento de equipos 
 
 **Tecnologías:** Python · Pandas · Scikit-learn · Machine Learning
 
-[Ver repositorio →](https://github.com/TU-USUARIO/TU-REPOSITORIO)
 
 ### 02. Machine Learning & Predictive Modeling
 
@@ -74,7 +73,6 @@ Desarrollo de modelos de aprendizaje automático, preparación de datos, selecci
 
 **Tecnologías:** Python · NumPy · Pandas · Scikit-learn · TensorFlow
 
-[Ver repositorio →](https://github.com/TU-USUARIO/TU-REPOSITORIO)
 
 ### 03. Data Analytics & Visualization
 
@@ -82,15 +80,12 @@ Análisis exploratorio de datos, identificación de patrones y elaboración de v
 
 **Tecnologías:** Python · SQL · Power BI · Pandas
 
-[Ver repositorio →](https://github.com/TU-USUARIO/TU-REPOSITORIO)
 
 ### 04. Interactive Data Applications
 
 Desarrollo de aplicaciones con Streamlit para presentar análisis, modelos y resultados de forma interactiva.
 
 **Tecnologías:** Python · Streamlit · Pandas · Machine Learning
-
-[Ver repositorio →](https://github.com/TU-USUARIO/TU-REPOSITORIO)
 
 ---
 
